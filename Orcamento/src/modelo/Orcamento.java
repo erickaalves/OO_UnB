@@ -1,5 +1,4 @@
 package modelo;
-import java.util.*;
 
 public class Orcamento {
 	private String tituloOrc;

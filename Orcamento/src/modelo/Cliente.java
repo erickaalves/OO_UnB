@@ -1,5 +1,4 @@
 package modelo;
-import java.util.*;
 
 public class Cliente {
 	private String nome;
