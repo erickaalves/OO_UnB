@@ -26,4 +26,10 @@ public class Cliente {
 	public int getCpfCnpj() {
 		return cpfCnpj;
 	}
+	public String getBuscarCliente() {
+		return nome;
+	}
+	public String AddClientes() {
+		return nome;
+	}
 }
